@@ -1,0 +1,60 @@
+
+.container {
+    max-width: 1140px;
+}
+
+.content-area {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+article, aside, details, figcaption, figure, footer, header, main, menu, nav, section, summary {
+    display: block;
+}
+
+.wpb-content-wrapper {
+    margin: 0;
+    padding: 0;
+    border: none;
+    overflow: unset;
+    display: block;
+}
+
+.elementor-31 .elementor-element.elementor-element-76ebd3c {
+    --display: flex;
+}
+.e-con.e-flex>.e-con-inner {
+    align-content: var(--align-content);
+    align-items: var(--align-items);
+    align-self: auto;
+    flex-basis: auto;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-wrap: var(--flex-wrap);
+    justify-content: var(--justify-content);
+}
+.e-con.e-con>.e-con-inner>.elementor-widget, .elementor.elementor .e-con>.elementor-widget {
+    max-width: 100%;
+}
+
+.custom_1476872491471 {
+    margin-bottom: 100px !important;
+}
+.elementor *, .elementor :after, .elementor :before {
+    box-sizing: border-box;
+}
+
+.column_container>.column-inner {
+    box-sizing: border-box;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 100%;
+}
+
+.icon-boxes.icon_on_left {
+    margin-bottom: 30px;
+}
+.icon-boxes.icon_on_left .icon-boxes--title {
+    margin-top: 0;
+    text-transform: uppercase;
+}

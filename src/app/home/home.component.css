@@ -1,0 +1,9 @@
+#branding_logo, a {
+    color: #696969;
+}
+
+#branding_logo, img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: top;
+}

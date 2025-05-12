@@ -1,0 +1,186 @@
+.footer {
+    padding-top: 80px;
+    padding-bottom: 40px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 15px;
+}
+
+.footer.style02 {
+    background-color: #333333;
+    color: #ababab;
+}
+
+.copyright.style02 {
+    background: #333333;
+}
+
+.copyright {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.copyright {
+    display: block;
+    width: 100%;
+    position: relative;
+}
+.copyright.style02 .copyright-container {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border-top: 2px solid #2d2d2d;
+}
+
+.copyright.style02 .copyright-left {
+    font-size: 14px;
+    color: #696969;
+    font-family: Lato;
+    font-style: italic;
+    line-height: 1;
+}
+
+.copyright-right ul li a {
+    text-transform: uppercase;
+    font-family: Montserrat;
+    color: #696969;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 1;
+    text-decoration: none;
+}
+
+.copyright-right ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.copyright-right ul li {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.copyright-right ul li a:hover {
+    padding-left: 15px;
+    color: #da0e2b;
+}
+
+.copyright-left a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.footer.style02 .widget ul li a {
+    position: relative;
+    color: #ababab;
+    text-decoration: none;
+}
+.footer.style02 .widget ul li a:hover {
+    padding-left: 15px;
+    color: #da0e2b;
+}
+
+.footer.style02 .widget ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer.style02 .widget ul li {
+    margin-bottom: 15px;
+    line-height: 1.6;
+}
+
+.footer.style02 .footer-social {
+    margin-top: 30px;
+}
+.footer.style02 .footer-social a {
+    display: inline-block;
+    width: 48px;
+    height: 48px;
+    line-height: 44px;
+    text-align: center;
+    border: 2px solid #585858;
+    border-radius: 24px;
+    margin-right: 6px;
+    font-size: 16px;
+    color: #ababab;
+}
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px / 1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.footer .footer-c1, .footer .footer-c2, .footer .footer-c3, .footer .footer-c4 {
+    margin-bottom: 30px;
+}
+
+#footer_logo, a {
+    color: #696969;
+}
+
+#footer_logo, img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: top;
+}
+
+.footer.style02 .widget .widget-title {
+    margin-bottom: 30px;
+    padding-bottom: 10px;
+    color: #ffffff;
+    font-family: Merriweather;
+    font-weight: 400;
+    font-size: 18px;
+    letter-spacing: 0;
+    position: relative;
+}
+
+.footer.style02 .widget .widget-title:after {
+    content: '';
+    width: 30px;
+    height: 1px;
+    background-color: #da0e2b;
+    display: block;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+}
+.footer.style02 .widget:hover .widget-title:after {
+    width: 60px;
+}
+
+.footer.style02 .widget ul li a:hover:before {
+    position: absolute;
+    content: '\f462';
+    font-family: 'Ionicons';
+    left: 0;
+    top: 0;
+    color: #da0e2b;
+    line-height: 18px;
+}
+
+.footer.style02 .widget ul li a:hover {
+    padding-left: 15px;
+    color: #da0e2b;
+}
+
+.footer.style02 .footer-social a:hover {
+    background-color: #da0e2b;
+    border-color: #da0e2b;
+    color: #ffffff !important;
+}
+
+.fa.fa-facebook, .fa.fa-twitter {
+    font-family: "Font Awesome 5 Brands";
+    font-weight: 400;
+}
+.fa.fa-facebook:before {
+    content: "\f39e";
+}
